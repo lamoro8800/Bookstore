@@ -2,6 +2,8 @@
 
 An extensible Java-based bookstore management system.
 
+![App Screenshot]([screenshots/app-screenshot.png](https://github.com/user-attachments/assets/2ff98f73-25df-47e7-937a-9f017bbe8b9f))
+
 ---
 
 ## 🚀 Features
